@@ -1,5 +1,5 @@
-# Veria
-Ver?Rev! Dedicated reverse AI websites, apps, and proprietary services.
+# Hello from Veria!
+Dedicated reverse AI websites, apps, and proprietary services.
 
 ```js
 console.log(Array.from("Veria").reverse().join(''));

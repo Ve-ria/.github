@@ -8,6 +8,9 @@ console.log(Array.from("Veria").reverse().join(''));
 Maybe operational:
 - [x] NotionAI Reverse
 - [x] HuskyAI Reverse
-- [x] Poe Proxy 
+- [x] Poe Proxy
+
+Operational:
+- [x] Ami.2api
 
 Maybe more...
